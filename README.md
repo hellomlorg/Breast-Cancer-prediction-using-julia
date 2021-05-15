@@ -15,7 +15,7 @@ The dataset used in this project was taken from kaggle available at https://www.
 The accuracy of the model varies each time you train it from 70 to 90 percent reason being that it was only trained using a RandomForestClassifier. You can try applying various other models for better accuracy and/or do feature scaling and/or feature engineering.
 
 ## Understanding the code
-You can understand more on how this model works from the article I have written in helloml available at https://helloml.org/
+You can understand more on how this model works from the article I have written in helloml available at https://helloml.org/breast-cancer-prediction-using-julia/.
 
 ## How to run the code
 Clone this repo and then use the Jupyter Notebook to open the ipynb file. 
